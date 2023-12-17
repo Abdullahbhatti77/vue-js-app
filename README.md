@@ -1,5 +1,7 @@
 # default
 
+You can see its live view at https://hybridvueapp.netlify.app
+
 ## Project setup
 
 ```
